@@ -1,139 +1,92 @@
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=210&section=header&text=Kaneki%20Ken&fontSize=64&fontColor=C9A227&desc=Software%20Developer%20%7C%20Bots%20%7C%20Web%20Applications&descSize=16&descAlignY=74&animation=fadeIn" width="100%" alt="Kaneki Ken — Software Developer" />
+<div align="center">
 
-  *“Rise, Tarnished. The Lands Between have need of code.”*
+# ⚔️ Kaneki Ken
 
-  **Backend Development · Discord Automation · Web Applications · Performance Engineering**
+### Developer • Discord Bot Engineer • Automation & Image Recognition
+
+*“A tarnished who keeps building.”*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kaneki--Ken5454-181717?style=for-the-badge&logo=github)](https://github.com/Kaneki-Ken5454)
+[![Discord](https://img.shields.io/badge/Discord-kaneki__ken5454-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
 </div>
 
 ---
 
-## ⚔️ About Me
+## 🗡️ About Me
 
-I'm **Kaneki Ken**, a developer focused on building practical, scalable software — from feature-rich Discord bots and automation systems to web dashboards and image-recognition applications.
+I'm a developer focused on building practical, efficient tools and bots, with an interest in automation, image recognition, backend systems, and dashboards.
 
-I enjoy working across the stack, designing backend architecture, building APIs, optimizing asynchronous workloads, managing databases, and creating clean user interfaces.
+- 🤖 Building Discord bots, raid automation, moderation tools, and interactive server systems.
+- 🔎 Working on image-hashing and Pokémon recognition workflows.
+- 🌐 Developing dashboards, OAuth flows, APIs, and real-time controls.
+- ⚙️ Interested in performance, concurrency, caching, and reliable deployments.
 
-- 🔭 Building Discord bots, automation tools, and web applications.
-- ⚙️ Interested in concurrency, caching, image recognition, and performance optimization.
-- 🗄️ Working with relational and NoSQL databases.
-- 🌱 Exploring better system architecture and efficient application development.
-- 🎯 Focused on software that is reliable, maintainable, and genuinely useful.
+## 🛠️ Tech Stack
 
----
-
-## 🗡️ Armaments — Tech Stack
+<div align="center">
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,rust,cs" alt="Python, JavaScript, TypeScript, Java, Rust and C#" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Backend & Bot Development**
+**Frameworks, Data & Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-Photography-6A5ACD?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Node.js · Discord.js · Java / JDA · Rust · REST APIs · WebSockets · OAuth2 · Asynchronous Programming
-
-**Frontend & Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,html,css,tailwind,vite" alt="Flutter, HTML, CSS, Tailwind CSS and Vite" />
-</p>
-
-**Databases & Storage**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite and Supabase" />
-</p>
-
-**Tools & Environment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,bash,powershell,windows,linux" alt="Git, GitHub, VS Code, npm, Bash, PowerShell, Windows and Linux" />
-</p>
-
----
-
-## 🔥 Selected Projects
-
-### 🤖 AutoSender — Discord Automation
-- Role-based raid eligibility and participant matching.
-- Cooldown-aware scheduling and automatic raid distribution.
-- Capacity management and database-backed raid management.
-- Dashboard integration and automated workflows.
-
-### 🔍 Xypher Catcher — Pokémon Recognition
-- Perceptual image hashing and similarity matching.
-- Image preprocessing and hash-based recognition.
-- Caching strategies to reduce repeated computation.
-- Performance-focused processing for concurrent workloads.
-
-### 🏛️ Homunculus — Discord Bot & Dashboard
-- Moderation, warnings, tickets, and audit logs.
-- Dashboard-based configuration and management.
-- OAuth2 authentication and role-based access.
-- Automation and real-time control features.
-
----
-
-## 🛠️ Areas of Focus
-
-| Area | Focus |
-|---|---|
-| Backend Engineering | APIs, business logic, asynchronous systems |
-| Discord Development | Automation, moderation, event-driven bots |
-| Performance | Concurrency, semaphores, caching, CPU optimization |
-| Image Processing | Pillow, perceptual hashing, image recognition |
-| Databases | Schema design, query efficiency, data management |
-| Web Development | Dashboards, integrations, authentication |
-| Deployment | Vercel, Pterodactyl, Linux environments |
-
----
-
-## 📜 Remembrance — GitHub Statistics
-
-
-<div align="center">
-  <a href="https://github.com/Kaneki-Ken5454">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Kaneki-Ken5454&show_icons=true&hide_border=true&hide=contribs&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&icon_color=D4AF37&cache_seconds=86400" alt="Kaneki Ken's GitHub Statistics" />
-  </a>
-  <a href="https://github.com/Kaneki-Ken5454">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaneki-Ken5454&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&cache_seconds=86400" alt="Most Used Languages" />
-  </a>
 </div>
 
-  <a href="https://github.com/Kaneki-Ken5454">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneki-Ken5454&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&cache_seconds=86400" alt="Most Used Languages" />
-  </a>
+## 🏰 Selected Projects
+
+### 🤖 AutoSender — Discord Raid Automation
+Automation for raid discovery and sending, including eligibility checks, cooldown handling, role matching, and raid hub workflows.
+
+### 🔎 Xypher Catcher — Pokémon Image Recognition
+A Pokémon-naming bot exploring perceptual hashing, image preprocessing, caching, and efficient concurrent recognition.
+
+### 🧩 Homunculus — Discord Bot & Dashboard
+A Discord bot and web control panel focused on moderation, tickets, audit history, configuration, and real-time bot management.
+
+## ⚙️ Areas of Focus
+
+- Efficient async workloads, concurrency limits, and resource usage
+- Image hashing, perceptual similarity, and cache design
+- Discord API integrations, permissions, and rate-limit handling
+- Backend APIs, database architecture, and dashboard integrations
+- Reliable deployment and maintainable project structure
+
+## 📊 GitHub Statistics
+
+<!-- These SVG cards are generated and committed by .github/workflows/update-stats.yml -->
+<div align="center">
+  <img width="49%" src="./profile/stats.svg" alt="Kaneki Ken's GitHub Statistics" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Kaneki-Ken5454&hide_border=true&background=0D0D0D&border=C9A227&stroke=C9A227&ring=D4AF37&fire=C9A227&currStreakNum=FFFFFF&currStreakLabel=C9A227&sideNums=CFCFCF&sideLabels=CFCFCF&dates=7A7A7A" alt="GitHub Contribution Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Kaneki-Ken5454&hide_border=true&background=0D0D0D&ring=D4AF37&fire=C9A227&currStreakLabel=C9A227&sideLabels=CFCFCF&dates=7A7A7A" alt="GitHub Contribution Streak" />
 </div>
+
+## 📫 Find Me
+
+- **GitHub:** [Kaneki-Ken5454](https://github.com/Kaneki-Ken5454)
+- **Discord:** `kaneki_ken5454`
 
 ---
 
-## 🌌 Site of Grace — Find Me
-
 <div align="center">
-  <a href="https://discord.com/users/1085738238385340467">
-    <img src="https://img.shields.io/badge/Discord-kaneki__ken5454-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: kaneki_ken5454" />
-  </a>
-  <a href="https://github.com/Kaneki-Ken5454">
-    <img src="https://img.shields.io/badge/GitHub-Kaneki--Ken5454-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Kaneki-Ken5454" />
-  </a>
-
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=Kaneki-Ken5454&label=PROFILE%20VIEWS&color=C9A227&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-
-  *Built with curiosity. Refined through iteration. Powered by stubborn debugging.*
-
+  <sub>Forged through curiosity, persistence, and a little Tarnished determination.</sub>
 </div>
