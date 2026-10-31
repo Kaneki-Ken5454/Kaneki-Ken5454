@@ -7,7 +7,8 @@
 *“A tarnished who keeps building.”*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kaneki--Ken5454-181717?style=for-the-badge&logo=github)](https://github.com/Kaneki-Ken5454)
-[![Discord](https://img.shields.io/badge/Discord-kaneki__ken5454-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-kaneki__ken5454-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kaneki_ken5454)
+[![Nameplate](https://img.shields.io/badge/Nameplate-kaneki__ken-0D0D0D?style=for-the-badge&logo=linktree&logoColor=D4AF37)](https://nameplate.lol/kaneki_ken)
 
 </div>
 
@@ -70,20 +71,20 @@ A Discord bot and web control panel focused on moderation, tickets, audit histor
 
 ## 📊 GitHub Statistics
 
-<!-- These SVG cards are generated and committed by .github/workflows/update-stats.yml -->
 <div align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Kaneki Ken's GitHub Statistics" />
-  <img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaneki-Ken5454&show_icons=true&hide_border=true&hide=contribs&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8&icon_color=D4AF37&border_color=1a1a1a" alt="Kaneki Ken's GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneki-Ken5454&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8&border_color=1a1a1a" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Kaneki-Ken5454&hide_border=true&background=0D0D0D&ring=D4AF37&fire=C9A227&currStreakLabel=C9A227&sideLabels=CFCFCF&dates=7A7A7A" alt="GitHub Contribution Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Kaneki-Ken5454&hide_border=true&background=0D0D0D&ring=D4AF37&fire=C9A227&currStreakLabel=C9A227&sideLabels=E8E8E8&dates=A0A0A0&stroke=1a1a1a" alt="GitHub Contribution Streak" />
 </div>
 
 ## 📫 Find Me
 
 - **GitHub:** [Kaneki-Ken5454](https://github.com/Kaneki-Ken5454)
 - **Discord:** `kaneki_ken5454`
+- **Nameplate:** [nameplate.lol/kaneki_ken](https://nameplate.lol/kaneki_ken)
 
 ---
 
