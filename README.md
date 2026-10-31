@@ -1,25 +1,24 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kaneki+Ken;Full-Stack+Developer;Discord+Bot+Developer" alt="Typing SVG" />
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2563EB&height=190&section=header&text=Kaneki%20Ken&fontSize=60&fontFamily=Poppins&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Discord%20Bots%20%26%20Web%20Apps&descAlignY=76&descSize=16"
+    alt="Kaneki Ken"
+  />
 </div>
 
----
+### // about
 
-I'm a full-stack developer who builds **Discord bots** and **web applications** end-to-end — from backend architecture to polished frontends. I enjoy turning ideas into scalable, production-ready projects and constantly pushing my skills with new tools.
+I build Discord bots and web applications end to end — the backend logic, the APIs, and the frontends that sit on top of them. Most of what I ship lives in Node.js and Python, with Flutter for mobile and a healthy dose of Rust when something needs to be fast.
 
-- 🤖 Currently building Discord bots & modern web apps
-- 💬 Ask me about Python, JavaScript, Node.js, or Flutter
-- 📫 Reach me on Discord: **kaneki_ken5454**
+I care about code that stays readable a year later, and I'd rather ship something small and solid than something large and fragile.
 
 ---
 
-## 🛠 Tech Stack
+### // stack
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cs,rust,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,rust" />
 </p>
 
 **Frontend & Mobile**
@@ -28,7 +27,7 @@ I'm a full-stack developer who builds **Discord bots** and **web applications** 
   <img src="https://skillicons.dev/icons?i=flutter,tailwind,css,html" />
 </p>
 
-**Backend & Runtime**
+**Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -40,7 +39,7 @@ I'm a full-stack developer who builds **Discord bots** and **web applications** 
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" />
 </p>
 
-**Tools & Environment**
+**Tooling**
 
 <p>
   <img src="https://skillicons.dev/icons?i=vite,npm,bash,powershell,windows" />
@@ -48,35 +47,27 @@ I'm a full-stack developer who builds **Discord bots** and **web applications** 
 
 ---
 
-## 📊 GitHub Stats
+### // stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingmon6996&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmon6996&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmon6996&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kingmon6996&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmon6996&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmon6996&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
 
 ---
 
-## 🌐 Connect
+### // contact
 
 <p align="center">
   <a href="https://discord.com/users/1085738238385340467">
     <img src="https://img.shields.io/badge/Discord-kaneki__ken5454-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/pravanjan-roy-k2006">
-    <img src="https://img.shields.io/badge/LinkedIn-Pravanjan%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/pravanjan_roy/">
-    <img src="https://img.shields.io/badge/Instagram-@pravanjan__roy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingmon6996&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kingmon6996&label=views&color=6D28D9&style=flat" alt="Profile views" />
 </p>
