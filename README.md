@@ -1,72 +1,143 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=200&section=header&text=Kaneki%20Ken&fontSize=60&fontColor=C9A227&desc=Full-Stack%20Developer%20%C2%B7%20Discord%20Bots%20%26%20Web%20Apps&descSize=16&descAlignY=75&animation=fadeIn" alt="Kaneki Ken" width="100%" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=210&section=header&text=Kaneki%20Ken&fontSize=64&fontColor=C9A227&desc=Software%20Developer%20%7C%20Bots%20%7C%20Web%20Applications&descSize=16&descAlignY=74&animation=fadeIn" width="100%" alt="Kaneki Ken — Software Developer" />
 </div>
 
-## ⚔️ The Tarnished
+<div align="center">
 
-> *Rise, Tarnished. The Lands Between have need of code.*
+  *“Rise, Tarnished. The Lands Between have need of code.”*
 
-I build **Discord bots** and **web applications** end to end — backend logic, APIs, and the frontends layered on top. Most of what I ship lives in **Node.js** and **Python**, with **Flutter** for mobile and **Rust** when something needs to be fast.
+  **Backend Development · Discord Automation · Web Applications · Performance Engineering**
 
-I care about code that stays readable a year later, and I'd rather ship something small and solid than something large and fragile.
-
----
-
-## 🗡️ Armaments
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,rust" alt="Languages" />
-</p>
-
-**Frontend & Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,tailwind,css,html" alt="Frontend" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" alt="Databases" />
-</p>
-
-**Tooling**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vite,npm,bash,powershell,windows" alt="Tooling" />
-</p>
+</div>
 
 ---
 
-## 📜 Remembrance
+## ⚔️ About Me
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmon6996&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&border_color=C9A227" alt="Top Languages" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kingmon6996&show_icons=true&hide_border=true&hide=contribs&count_private=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&icon_color=D4AF37&border_color=C9A227" alt="GitHub Stats" />
+I'm **Kaneki Ken**, a developer focused on building practical, scalable software — from feature-rich Discord bots and automation systems to web dashboards and image-processing applications.
+
+I enjoy working across the stack, whether that means designing backend architecture, building APIs, optimizing asynchronous workloads, managing databases, or creating clean user interfaces.
+
+My main areas of interest are **backend engineering, automation, performance optimization, and system design**. I value maintainable code, efficient resource usage, and systems that keep working reliably under load.
+
+- 🔭 Building and improving Discord bots, automation tools, and web applications.
+- ⚙️ Interested in concurrency, caching, image recognition, and performance engineering.
+- 🗄️ Working with relational and NoSQL databases.
+- 🌱 Exploring better system architecture and efficient application development.
+- 🎯 Goal: Build software that is reliable, maintainable, and genuinely useful.
+
+---
+
+## 🗡️ Armaments — Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,rust,cs" alt="Python, JavaScript, TypeScript, Java, Rust and C#" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kingmon6996&hide_border=true&background=0D0D0D&border=C9A227&stroke=C9A227&ring=D4AF37&fire=C9A227&currStreakNum=FFFFFF&currStreakLabel=C9A227&sideNums=CFCFCF&sideLabels=CFCFCF&dates=7A7A7A" alt="Streak" />
+### Backend & Bot Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+</p>
+
+**Technologies:** Node.js · Discord.js · Java / JDA · Rust · REST APIs · WebSockets · OAuth2 · Asynchronous Programming
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,tailwind,vite" alt="Flutter, HTML, CSS, Tailwind CSS and Vite" />
+</p>
+
+### Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite and Supabase" />
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,bash,powershell,windows,linux" alt="Git, GitHub, VS Code, npm, Bash, PowerShell, Windows and Linux" />
 </p>
 
 ---
 
-## 🔥 Site of Grace
+## 🔥 Selected Projects
 
-<p align="center">
+### 🤖 AutoSender — Discord Automation
+A Discord raid automation system focused on reliable scheduling and intelligent raid distribution.
+
+- Role-based eligibility and participant matching.
+- Cooldown-aware raid scheduling and automatic sending.
+- Capacity management and multi-raid distribution.
+- Dashboard integration and database-backed raid management.
+
+### 🔍 Xypher Catcher — Pokémon Recognition
+A Pokémon recognition bot designed for fast image processing and high-volume spawn handling.
+
+- Perceptual image hashing and similarity matching.
+- Image preprocessing and hash-based recognition.
+- Caching strategies to reduce repeated computation.
+- Performance-focused processing for concurrent workloads.
+
+### 🏛️ Homunculus — Discord Bot & Dashboard
+A Discord management bot paired with a web-based control panel.
+
+- Moderation, warnings, tickets, and audit logs.
+- Dashboard-based configuration and management.
+- OAuth2 authentication and role-based access.
+- Automation systems and real-time control features.
+
+---
+
+## 🛠️ What I Focus On
+
+| Area | Focus |
+|---|---|
+| Backend Engineering | APIs, business logic, asynchronous systems |
+| Discord Development | Automation, moderation, event-driven bots |
+| Performance | Concurrency, semaphores, caching, CPU optimization |
+| Image Processing | Pillow, perceptual hashing, image recognition |
+| Databases | Schema design, query efficiency, data management |
+| Web Development | Dashboards, integrations, authentication |
+| Deployment | Vercel, Pterodactyl, Linux environments |
+
+---
+
+## 📜 Remembrance — GitHub Statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingmon6996&show_icons=true&hide_border=true&hide=contribs&count_private=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&icon_color=D4AF37" alt="Kaneki Ken's GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmon6996&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kingmon6996&hide_border=true&background=0D0D0D&border=C9A227&stroke=C9A227&ring=D4AF37&fire=C9A227&currStreakNum=FFFFFF&currStreakLabel=C9A227&sideNums=CFCFCF&sideLabels=CFCFCF&dates=7A7A7A" alt="GitHub Contribution Streak" />
+</div>
+
+---
+
+## 🌌 Site of Grace — Find Me
+
+<div align="center">
+
   <a href="https://discord.com/users/1085738238385340467">
-    <img src="https://img.shields.io/badge/Discord-kaneki__ken5454-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-kaneki__ken5454-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: kaneki_ken5454" />
   </a>
-</p>
+  <a href="https://github.com/kingmon6996">
+    <img src="https://img.shields.io/badge/GitHub-kingmon6996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: kingmon6996" />
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingmon6996&label=views&color=C9A227&style=flat" alt="Profile views" />
-</p>
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=kingmon6996&label=PROFILE%20VIEWS&color=C9A227&style=flat" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+
+  *Built with curiosity. Refined through iteration. Powered by coffee and stubborn debugging.*
+
+</div>
