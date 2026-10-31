@@ -96,10 +96,16 @@ Node.js · Discord.js · Java / JDA · Rust · REST APIs · WebSockets · OAuth2
 
 ## 📜 Remembrance — GitHub Statistics
 
+
 <div align="center">
   <a href="https://github.com/Kaneki-Ken5454">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaneki-Ken5454&show_icons=true&hide_border=true&hide=contribs&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&icon_color=D4AF37&cache_seconds=86400" alt="Kaneki Ken's GitHub Statistics" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Kaneki-Ken5454&show_icons=true&hide_border=true&hide=contribs&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&icon_color=D4AF37&cache_seconds=86400" alt="Kaneki Ken's GitHub Statistics" />
   </a>
+  <a href="https://github.com/Kaneki-Ken5454">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaneki-Ken5454&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&cache_seconds=86400" alt="Most Used Languages" />
+  </a>
+</div>
+
   <a href="https://github.com/Kaneki-Ken5454">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneki-Ken5454&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&cache_seconds=86400" alt="Most Used Languages" />
   </a>
