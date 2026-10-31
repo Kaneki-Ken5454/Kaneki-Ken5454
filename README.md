@@ -72,12 +72,14 @@ A Discord bot and web control panel focused on moderation, tickets, audit histor
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaneki-Ken5454&show_icons=true&hide_border=true&hide=contribs&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8&icon_color=D4AF37&border_color=1a1a1a" alt="Kaneki Ken's GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneki-Ken5454&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8&border_color=1a1a1a" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Kaneki-Ken5454&show_icons=true&hide_border=true&hide=contribs&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&icon_color=D4AF37" alt="Kaneki Ken's GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaneki-Ken5454&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8" alt="Most Used Languages" />
 </div>
 
+<br>
+
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Kaneki-Ken5454&hide_border=true&background=0D0D0D&ring=D4AF37&fire=C9A227&currStreakLabel=C9A227&sideLabels=E8E8E8&dates=A0A0A0&stroke=1a1a1a" alt="GitHub Contribution Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Kaneki-Ken5454&hide_border=true&background=0D0D0D&ring=D4AF37&fire=C9A227&currStreakLabel=C9A227&sideLabels=E8E8E8&dates=A0A0A0" alt="GitHub Contribution Streak" />
 </div>
 
 ## 📫 Find Me
