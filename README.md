@@ -1,66 +1,65 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2563EB&height=190&section=header&text=Kaneki%20Ken&fontSize=60&fontFamily=Poppins&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Discord%20Bots%20%26%20Web%20Apps&descAlignY=76&descSize=16"
-    alt="Kaneki Ken"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=200&section=header&text=Kaneki%20Ken&fontSize=60&fontColor=C9A227&desc=Full-Stack%20Developer%20%C2%B7%20Discord%20Bots%20%26%20Web%20Apps&descSize=16&descAlignY=75&animation=fadeIn" alt="Kaneki Ken" width="100%" />
 </div>
 
-### // about
+## ⚔️ The Tarnished
 
-I build Discord bots and web applications end to end — the backend logic, the APIs, and the frontends that sit on top of them. Most of what I ship lives in Node.js and Python, with Flutter for mobile and a healthy dose of Rust when something needs to be fast.
+> *Rise, Tarnished. The Lands Between have need of code.*
+
+I build **Discord bots** and **web applications** end to end — backend logic, APIs, and the frontends layered on top. Most of what I ship lives in **Node.js** and **Python**, with **Flutter** for mobile and **Rust** when something needs to be fast.
 
 I care about code that stays readable a year later, and I'd rather ship something small and solid than something large and fragile.
 
 ---
 
-### // stack
+## 🗡️ Armaments
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,rust" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,rust" alt="Languages" />
 </p>
 
 **Frontend & Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,tailwind,css,html" />
+  <img src="https://skillicons.dev/icons?i=flutter,tailwind,css,html" alt="Frontend" />
 </p>
 
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" alt="Databases" />
 </p>
 
 **Tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,npm,bash,powershell,windows" />
+  <img src="https://skillicons.dev/icons?i=vite,npm,bash,powershell,windows" alt="Tooling" />
 </p>
 
 ---
 
-### // stats
+## 📜 Remembrance
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmon6996&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kingmon6996&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmon6996&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&border_color=C9A227" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kingmon6996&show_icons=true&hide_border=true&hide=contribs&count_private=true&bg_color=0D0D0D&title_color=C9A227&text_color=CFCFCF&icon_color=D4AF37&border_color=C9A227" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmon6996&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kingmon6996&hide_border=true&background=0D0D0D&border=C9A227&stroke=C9A227&ring=D4AF37&fire=C9A227&currStreakNum=FFFFFF&currStreakLabel=C9A227&sideNums=CFCFCF&sideLabels=CFCFCF&dates=7A7A7A" alt="Streak" />
 </p>
 
 ---
 
-### // contact
+## 🔥 Site of Grace
 
 <p align="center">
   <a href="https://discord.com/users/1085738238385340467">
@@ -69,5 +68,5 @@ I care about code that stays readable a year later, and I'd rather ship somethin
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingmon6996&label=views&color=6D28D9&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kingmon6996&label=views&color=C9A227&style=flat" alt="Profile views" />
 </p>
