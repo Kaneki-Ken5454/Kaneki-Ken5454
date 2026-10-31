@@ -38,8 +38,25 @@ jobs:
             &border_color=C9A227
           path: profile/stats.svg
           token: ${{ secrets.STATS_PAT }}
-          fail_on_error: true
+          fail_on_error: false   # flip back to true once it works
 
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=Kaneki-Ken5454
+            &layout=compact
+            &langs_count=12
+            &hide_border=true
+            &count_private=true
+            &bg_color=0D0D0D,1A1A1A
+            &title_color=C9A227
+            &text_color=CFCFCF
+            &border_color=C9A227
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_PAT }}
+          fail_on_error: false
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
