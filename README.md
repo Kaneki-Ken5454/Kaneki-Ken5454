@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pravanjan+Roy;Full-Stack+Developer;Discord+Bot+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kaneki+Ken;Full-Stack+Developer;Discord+Bot+Developer" alt="Typing SVG" />
 
 </div>
 
